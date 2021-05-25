@@ -1,0 +1,8 @@
+{
+  "domain": "xiaomi_gateway_proxy",
+  "name": "xiaomi gateway proxy",
+  "documentation": "https://ljr.im",
+  "codeowners": ["@cnk700i"],
+  "version": "0.1.0",
+  "description": "transfer udp mulitcast packet from lan to homeassistant running in docker env"
+}
